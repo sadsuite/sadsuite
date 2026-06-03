@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Ciao,%20sono%20Simone!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Ayy,%20it's%20Me!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ## 👋 Oh my Goddoooohh
