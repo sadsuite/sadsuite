@@ -5,7 +5,7 @@
 
 ## 👋 Oh my Goddoooohh
 
-Run on the sky
+Float in the sky
 
 ---
 
@@ -31,9 +31,6 @@ Run on the sky
 ---
 
 ### ✨ Message
-
-> Sto imparando, quindi questo profilo crescerà con me.  
-> Ogni modifica è un allenamento, ogni progetto è una nuova scoperta. 🌟
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=86A8E7&center=true&vCenter=true&width=600&lines=Sto+imparando+GitHub;Sto+costruendo+il+mio+percorso;Un+passo+alla+volta+🚀" />
